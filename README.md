@@ -50,9 +50,9 @@ Below is a curated summary of leading commercial invoice financing, enterprise s
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosting invoicing engines, web3 invoice tokenization, decentralized supply chain financing, and accounting foundations, sorted by GitHub Stars_Count (descending).
+Curated open-source projects for self-hosting invoicing engines, web3 invoice tokenization, decentralized supply chain financing, and accounting foundations, sorted by GitHub_Stars_Count (descending).
 
-| Project | GitHub Stars_Badge | Core Architecture | Description |
+| Project | GitHub_Stars_Badge | Core Architecture | Description |
 | :--- | :--- | :--- | :--- |
 | **Midday** | [![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=social&color=white)](https://github.com/midday-ai/midday/stargazers) | Next.js, TypeScript, Tailwind | All-in-one financial OS for freelancers and SMBs with automated invoice generation, time tracking, and financial reconciliation. |
 | **Aureus ERP** | [![Stars](https://img.shields.io/github/stars/aureuserp/aureuserp?style=social&color=white)](https://github.com/aureuserp/aureuserp/stargazers) | Python, JavaScript | Open-source enterprise resource planning engine featuring sales invoice workflows, customer accounts, and supply chain ledger. |
